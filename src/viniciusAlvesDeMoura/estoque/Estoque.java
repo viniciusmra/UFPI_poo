@@ -1,6 +1,8 @@
-package viniciusAlvesDeMoura.supermercado;
+package viniciusAlvesDeMoura.estoque;
+
 import java.util.ArrayList;
 import java.util.Vector;
+
 public class Estoque {
 	Vector<Produto> produtos = new Vector<Produto>();
 

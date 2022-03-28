@@ -1,4 +1,4 @@
-package viniciusAlvesDeMoura.supermercado;
+package viniciusAlvesDeMoura.estoque;
 
 public class Produto {
 	private int codigo;
